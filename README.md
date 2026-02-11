@@ -24,9 +24,10 @@
   <h3>👤 About Me</h3>
 </div>
 
-I'm a Senior Mobile App Developer with over 7 years of experience creating high-quality, cross-platform applications using Flutter. From business and e-commerce apps to e-learning platforms, booking systems, delivery solutions, and marketplaces — I’ve successfully delivered clean, scalable, and fully functional apps for startups and established companies around the world.
+Senior Mobile App Developer with 7+ years of experience architecting and delivering high-performance cross-platform applications with Flutter.
+I help startups and companies transform ideas into scalable, production-ready digital products — from e-commerce and e-learning platforms to booking systems, delivery apps, and full-scale marketplaces.
 
-I'm also the founder and CEO of your startup, focused on mobile app development and digital innovation.
+I’m also the Founder and CEO of my own startup, dedicated to mobile app development and digital innovation, where I lead strategy, product development, and the creation of scalable tech solutions.
 
 <div align="left">
   <h3>🛠 Language and tools</h3>
