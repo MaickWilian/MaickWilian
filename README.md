@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Animated Dev Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Maick Wilian</h1>
@@ -26,20 +26,45 @@
 
 ## 👨‍💻 About Me
 
-🔥 Senior Mobile App Developer with 7+ years of experience building high-performance cross-platform applications.
+🔥 Senior Mobile App Developer with 7+ years of experience building scalable mobile applications.
 
-📱 Specialized in Flutter, Dart & Firebase  
-🚀 Founder & CEO  
-🌎 Delivering scalable mobile solutions for startups and enterprises worldwide  
+📱 Flutter Specialist  
+⚡ Firebase Expert  
+🚀 Product Builder  
+🌎 Delivering production-ready apps worldwide  
 
-I focus on clean architecture, scalable systems, performance optimization, and premium UI/UX experiences.
+I focus on clean architecture, performance optimization, and premium UI/UX.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,js,ts,python,nodejs,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,swift,kotlin,java,js,ts,nodejs,express,nestjs,python,postgres,mongodb,sqlite,git,github,figma,vscode,linux,aws,vercel" />
+</p>
+
+---
+
+## 🚀 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode" />
+</p>
+
+---
+
+## 🌐 Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres" />
+</p>
+
+---
+
+## 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,aws,vercel" />
 </p>
 
 ---
@@ -48,13 +73,13 @@ I focus on clean architecture, scalable systems, performance optimization, and p
 
 ✔ Business Apps  
 ✔ E-commerce Platforms  
-✔ Booking Systems  
-✔ SaaS Applications  
-✔ Marketplace Solutions  
-✔ Mobile-first Digital Products  
+✔ SaaS Systems  
+✔ Marketplace Apps  
+✔ Booking Platforms  
+✔ High-performance Mobile Products  
 
 ---
 
 ## 💬 Let's Connect
 
-If you're looking for a high-performance mobile app developer who builds scalable, production-ready apps — let’s create something amazing together.
+If you're looking for a high-performance mobile developer who builds scalable, real-world products — let’s build something great.
