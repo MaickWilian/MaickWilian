@@ -24,6 +24,8 @@
 
 <br>
 
+---
+
 <p align="left">
   <font size="5"><strong>👤 About Me</strong></font>
 </p>
@@ -33,6 +35,8 @@ I'm a Senior Mobile App Developer with over 7 years of experience creating high-
 I'm also the founder and CEO of your startup, focused on mobile app development and digital innovation.
 
 <br>
+
+---
 
 <p align="left">
   <font size="5"><strong>🛠 Language and tools</strong></font>
