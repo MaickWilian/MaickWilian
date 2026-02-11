@@ -18,17 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=MaickWilian&label=visitors&color=00acee&style=flat-square" />
 </p>
 
-<p align="center">
-  <font size="6"><strong>Hi there 👋, I'm Maick Wilian</strong></font>
-</p>
+<h1 align="center">Hi there 👋, I'm Maick Wilian</h1>
 
 <br>
 
----
-
-<p align="left">
-  <font size="5"><strong>👤 About Me</strong></font>
-</p>
+<div align="left">
+  <h3>👤 About Me</h3>
+</div>
 
 I'm a Senior Mobile App Developer with over 7 years of experience creating high-quality, cross-platform applications using Flutter. From business and e-commerce apps to e-learning platforms, booking systems, delivery solutions, and marketplaces — I’ve successfully delivered clean, scalable, and fully functional apps for startups and established companies around the world.
 
@@ -36,11 +32,9 @@ I'm also the founder and CEO of your startup, focused on mobile app development 
 
 <br>
 
----
-
-<p align="left">
-  <font size="5"><strong>🛠 Language and tools</strong></font>
-</p>
+<div align="left">
+  <h3>🛠 Language and tools</h3>
+</div>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,js,ts,python,nodejs,android,vscode,androidstudio,apple,firebase,figma,ai,ps,ae,pr&perline=14" />
