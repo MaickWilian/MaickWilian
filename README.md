@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaickWlian&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MaickWilian&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -42,11 +42,11 @@ I focus on clean architecture, scalable systems, performance optimization, and p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaickWlian&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaickWilian&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickWlian&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickWilian&layout=compact&theme=tokyonight" />
 </p>
 
 ---
