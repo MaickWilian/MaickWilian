@@ -19,9 +19,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Maick Wilian</h1>
-
 <br>
-
 <div align="left">
   <h3>👤 About Me</h3>
 </div>
