@@ -1,3 +1,8 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Maick Wilian</h1>
 <h3 align="center">Senior Mobile App Developer | Flutter & Firebase Specialist 🚀</h3>
 
@@ -35,18 +40,6 @@ I focus on clean architecture, scalable systems, performance optimization, and p
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,js,ts,python,nodejs,vscode,figma,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaickWilian&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickWilian&layout=compact&theme=tokyonight" />
 </p>
 
 ---
